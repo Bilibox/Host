@@ -28,3 +28,15 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
+
+http://sysctl.org/cameleon/hosts
+
+https://hostsfile.mine.nu/hosts0.txt
+
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0.txt
+
+https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
