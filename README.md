@@ -161,38 +161,38 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 
-https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt - okay to add
 
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist - okay to add
 
-https://adblock.mahakala.is/
+https://adblock.mahakala.is/ - Intense edits needed in order to add
 
-https://tspprs.com/dl/cl1
+https://tspprs.com/dl/cl1 - Okay to add
 
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/master/output/hosts/ACTIVE/hosts
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/master/output/hosts/ACTIVE/hosts - Okay to add
 
-https://someonewhocares.org/hosts/zero/
+https://someonewhocares.org/hosts/zero/ - Okay to add
 
-https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
+https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt - Okay to add
 
-https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt - Okay to add
 
-https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+https://raw.githubusercontent.com/yous/YousList/master/hosts.txt - Okay to add
 
-https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts
+https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts - Okay to add
 
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts - Okay to add
 
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts - Okay to add
 
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts - Okay to add
 
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt - Okay to add
 
-https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
+https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt - Okay to add
 
-https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0.txt
+https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts0.txt - Breaks dnsmasq - 1mill file, possible limit
 
-https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt - Okay to add
 
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
