@@ -154,8 +154,6 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt - okay to add
 
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist - okay to add
 
-https://adblock.mahakala.is/ - Intense edits needed in order to add
-
 https://tspprs.com/dl/cl1 - Okay to add
 
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/master/output/hosts/ACTIVE/hosts - Okay to add
