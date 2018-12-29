@@ -1,5 +1,8 @@
 This is a personal compiled HOST file with duplicates taken out.
 
+Tired of Anti Adblock popups? Add this list to your in browser adblock
+
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt 
 
 Sources for this file are the following
 
@@ -21,13 +24,9 @@ http://winhelp2002.mvps.org/hosts.txt
 
 http://www.joewein.net/dl/bl/dom-bl.txt
 
-http://www.networksec.org/grabbho/block.txt
-
 https://adaway.org/hosts.txt
 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-
-https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
 
 https://github.com/StevenBlack/hosts/blob/master/extensions/fakenews/hosts
 
@@ -55,13 +54,9 @@ https://hostsfile.org/Downloads/hosts.txt
 
 https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
 
-https://isc.sans.edu/feeds/suspiciousdomains_Medium.tx
-
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 
 https://mirror1.malwaredomains.com/files/justdomains
-
-https://openphish.com/feed.txt
 
 https://pgl.yoyo.org/as/serverlist.php?showintro=0&startdate%5Byear%5D=2000
 
@@ -77,8 +72,6 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 
-https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 
 https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
@@ -89,7 +82,7 @@ https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled
 
 https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 
@@ -99,10 +92,6 @@ https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 
-https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
@@ -110,6 +99,8 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/adaway.org/hosts
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts
 
@@ -121,9 +112,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master
-
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 
@@ -133,33 +122,33 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
-https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/AdguardDNS.txt - Okay to add
 
-https://v.firebog.net/hosts/Airelle-hrsk.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt - okay to add ( remove local host) 
 
-https://v.firebog.net/hosts/Airelle-trc.txt
+https://v.firebog.net/hosts/Airelle-trc.txt - Okay to add
 
-https://v.firebog.net/hosts/BillStearns.txt
+https://v.firebog.net/hosts/BillStearns.txt - Okay to add
 
-https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easylist.txt - Okay to add
 
-https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Easyprivacy.txt - Okay to add
 
-https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt - Okay to add
 
-https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt - Okay to add
 
-https://v.firebog.net/hosts/Prigent-Phishing.txt
+https://v.firebog.net/hosts/Prigent-Phishing.txt - Okay to add
 
-https://v.firebog.net/hosts/Shalla-mal.txt
+https://v.firebog.net/hosts/Shalla-mal.txt - Okay to add
 
-https://v.firebog.net/hosts/static/SamsungSmart.txt
+https://v.firebog.net/hosts/static/SamsungSmart.txt - Okay to add
 
-https://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/static/w3kbl.txt - Okay to add - Some edits required
 
-https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+https://www.dshield.org/feeds/suspiciousdomains_Low.txt 107k okay to add - testing required
 
-https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt - 156k Okay to add - Testing required
 
 https://www.malwaredomainlist.com/hostslist/hosts.txt - okay to add
 
@@ -170,8 +159,6 @@ https://adblock.mahakala.is/ - Intense edits needed in order to add
 https://tspprs.com/dl/cl1 - Okay to add
 
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/master/output/hosts/ACTIVE/hosts - Okay to add
-
-https://someonewhocares.org/hosts/zero/ - Okay to add
 
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt - Okay to add
 
